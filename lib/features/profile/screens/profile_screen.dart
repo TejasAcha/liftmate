@@ -272,7 +272,7 @@ class ProfileScreen extends StatelessWidget {
                     onTap: () => Get.to(() => const MyLevelScreen()),
                   ),
                 ProfileMenuItem(
-                  title: 'invoices',
+                  title: 'Invoices',
                   icon: Images.profileInvoice,
                   onTap: () => Get.toNamed(RouteHelper.getInvoiceListScreen()),
                 ),
