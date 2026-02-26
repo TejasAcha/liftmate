@@ -47,7 +47,7 @@ class _InvoiceListScreenState extends State<InvoiceListScreen> {
       builder: (controller) {
         return Scaffold(
           appBar: AppBar(
-            title: Text('invoice_list'.tr),
+            title: Text('Invoice History'.tr),
             leading: IconButton(
               icon: const Icon(Icons.arrow_back),
               onPressed: () => Get.back(),
