@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341343544975",
+    "project_id": "lifematedrive",
+    "storage_bucket": "lifematedrive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341343544975:android:7ebd05c5afeb95f985b2fa",
+        "android_client_info": {
+          "package_name": "com.liftmate.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckhJY3NMZTjOkXWMJhor_GIMmQflo1U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341343544975:android:10c8c8b38f6cd68b85b2fa",
+        "android_client_info": {
+          "package_name": "com.liftmate.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckhJY3NMZTjOkXWMJhor_GIMmQflo1U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
